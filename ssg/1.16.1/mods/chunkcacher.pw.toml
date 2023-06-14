@@ -1,0 +1,14 @@
+name = "Chunkcacher"
+filename = "chunkcacher-1.4.1+1.16.1.jar"
+side = "both"
+version = "1.4.1+1.16.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/chunkcacher/1.16.1/chunkcacher-1.4.1+1.16.1.jar"
+hash-format = "sha512"
+hash = "c63bd0ef52b5154ea143cac9074b945a224d9c14b0b3d7072af66edc6a0414d9391970e3d90f2fd0c373981cfe597fac90dcb74965cb91e52f40e6e5e81f416c"
+
+[option]
+optional = false
+default = true
+description = "A Minecraft Fabric mod that caches chunk information to speed up world generation."

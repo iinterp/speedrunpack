@@ -1,0 +1,14 @@
+name = "ZBufferFog"
+filename = "z-buffer-fog-1.4.jar"
+side = "both"
+version = "1.4"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/z-buffer-fog/1.3-1.14.4/z-buffer-fog-1.4.jar"
+hash-format = "sha512"
+hash = "41be9d118360b7ae725c8c5efc4a1d6bd11fd011680fb484881fa4ccf908b1bb2b938923302155eee045d96ed1078f5464ac482648c6a081527e6005e877784e"
+
+[option]
+optional = false
+default = true
+description = "Legacy Fabric mod that make terrain fog rendering to planar"

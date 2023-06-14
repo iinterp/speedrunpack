@@ -1,0 +1,14 @@
+name = "WorldPreview"
+filename = "worldpreview-6.0.0+1.16.1.jar"
+side = "both"
+version = "6.0.0+1.16.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/worldpreview/1.16.1/worldpreview-6.0.0+1.16.1.jar"
+hash-format = "sha512"
+hash = "65f14f96e015e27e6b216d023ca0c73496ffc86e0df60abce12eb26e017b0bacf4d2a024c15be4481a7c2d49468b6da35dddd7ca3e5b0ee07848733da6f75bef"
+
+[option]
+optional = false
+default = true
+description = "Makes you reset block game fast"

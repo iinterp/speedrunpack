@@ -1,0 +1,14 @@
+name = "SeedQueue"
+filename = "seedqueue-1.1.jar"
+side = "both"
+version = "1.1"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/seedqueue/1.16.1/seedqueue-1.1.jar"
+hash-format = "sha512"
+hash = "0859e99eae8ceff50199a7642a2d26f698b14af8f005d111c02ee7834c0a4488c158a36aa5bdfdd2aaeddd5b3ee4081027f8e493f9137d98f208a7c075514e75"
+
+[option]
+optional = false
+default = true
+description = "Generates worlds in the background for faster resetting."

@@ -1,0 +1,14 @@
+name = "Lazystronghold"
+filename = "lazystronghold-1.1.2+1.16.5.jar"
+side = "both"
+version = "1.1.2"
+
+[download]
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/lazystronghold/1.16.5/lazystronghold-1.1.2+1.16.5.jar"
+hash-format = "sha512"
+hash = "3cc0cca5435b711280b3cebc81e9bc064f11a5de84a665f64485c3543f3da0f04635f24bb37249e8ba16db8d188cd50e4daedb5ad695e864a128313f5381e3df"
+
+[option]
+optional = false
+default = true
+description = "Speeds up stronghold generation through lazy evaluation of strongholds combined with multithreading"

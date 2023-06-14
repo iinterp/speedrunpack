@@ -1,0 +1,76 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/antiresourcereload.pw.toml"
+hash = "1bc3967a1e1857d2073cd41fba4d07b75189ec7eb35ec703a1456410e1545964"
+metafile = true
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "7e1a195c23a722e4902de86b1dccbded8e4e075a8e1af33a7e21343788b8bda2"
+metafile = true
+
+[[files]]
+file = "mods/extra-options.pw.toml"
+hash = "53ec6be1011e5b621d56a0911fff5b012409a9f049828737da96f892433ff714"
+metafile = true
+
+[[files]]
+file = "mods/fast_reset.pw.toml"
+hash = "81290a04d82d5590dd318c027d51ebdef8a569729d89a21edaa0c5276ede05e6"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "2eac688e042f870e808d5d9608049d43fe2420bcb4f4d41896176b0333e3a69d"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "452081dd53baad5ab5f4b3316812723db73a30b1afd94d077d1cbb8aad13b0d6"
+metafile = true
+
+[[files]]
+file = "mods/lazystronghold.pw.toml"
+hash = "957ec9fa2b81ea110c3fbb483c1485ef8704b28b5d4f0ce156730676d713abd5"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "d05deb7e70298efcea5433a84b8b6bef697e0741a2587a33a5e334b5b6e5560b"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "2b5b9de027763248b87c15fb91c7fde78f7ff1baf46d75a930c9b375abb6bc4f"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "cc77d1f175c97df836f01969614d5a89f9507477d3ff928bae31f16d117a039d"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "d3920ca0ae709f84a1754b6337e39ecf5b3f920e856eef9844d045b34049e806"
+metafile = true
+
+[[files]]
+file = "mods/state-output.pw.toml"
+hash = "3463368cdcc0bf10efec95fd9dd98a8b10ab4ae8f7e53f479bef558f82b87362"
+metafile = true
+
+[[files]]
+file = "mods/voyager.pw.toml"
+hash = "eea8880c9b90e6b5339fa6a2c6c5d07ec262ddc041a96cbff81501e19875fa0c"
+metafile = true
+
+[[files]]
+file = "mods/worldpreview.pw.toml"
+hash = "db0805cdfe6ea7384b90b0c842ebd44a7233434629d88e35577da7c2976ecd24"
+metafile = true
+
+[[files]]
+file = "mods/z-buffer-fog.pw.toml"
+hash = "e4417057fef55c2a618e953781a71738c7790915c844b3095ab0a379010812ed"
+metafile = true

@@ -1,0 +1,110 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/mcsr/standardsettings.json"
+hash = "72f4445d878e7a931b0ab48174b71b66045242904f31fa6ce0e34abb00a164ec"
+
+[[files]]
+file = "mods/antigone.pw.toml"
+hash = "e24c63dd97cbcc95ccec8d639878c921cc4de3fb1b0c96db49ca5ca0ee59a0db"
+metafile = true
+
+[[files]]
+file = "mods/antiresourcereload.pw.toml"
+hash = "125253e67c21f331ec35a89d29da2dd2c18341638a0feb412fb30153ac66df1e"
+metafile = true
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "ce9e2d3002fab08744182b59919e7781d6c230b6ab9f57e08dcfef1ae2302ba5"
+metafile = true
+
+[[files]]
+file = "mods/chunkumulator.pw.toml"
+hash = "1852d91a1094bb775b575812c03e97d7cfc9634726f75bcbc501df87c7a0b2fa"
+metafile = true
+
+[[files]]
+file = "mods/extra-options.pw.toml"
+hash = "14ae6936a222e723d76b616d202e21b2d92f053b89a910bd3e4ef3143ad1c3a5"
+metafile = true
+
+[[files]]
+file = "mods/fast_reset.pw.toml"
+hash = "a4cb1f432d850193984fbe7d6bb05cbe7ece2a28f2d80742dc265cdabce2ad77"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "2eac688e042f870e808d5d9608049d43fe2420bcb4f4d41896176b0333e3a69d"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "5f734c4bb7e363951b34f145bf29b8d67616984268e00d5424823807a6806e0e"
+metafile = true
+
+[[files]]
+file = "mods/lazydfu.pw.toml"
+hash = "452081dd53baad5ab5f4b3316812723db73a30b1afd94d077d1cbb8aad13b0d6"
+metafile = true
+
+[[files]]
+file = "mods/lazystronghold.pw.toml"
+hash = "a3456de1eba9da6b6c5daabcc98d5d7f52d550e6ba93fd3b06db9fa9ef150016"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "8e58cbbcf9fdf58d2a19203fac644226e72f4e638cfa8943ae2da87436d913b5"
+metafile = true
+
+[[files]]
+file = "mods/seedqueue.pw.toml"
+hash = "9d3e0a5d41fd7c03464746f2ded872df31498afd446b5afeb9599decf5d9bfa7"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "0d679a84654aadc9f2f473ec89429a12d1cad4ecf95e14fcec192d2bb22716ff"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "53adbfc3880cec88280129f304fe93e35405dcb1b13c2a6d7d040bfcc53360bf"
+metafile = true
+
+[[files]]
+file = "mods/speedrunapi.pw.toml"
+hash = "4f15afeeee43a56b0d78a9d9975c7f4efd3c876dedd3d18a9c16d76bb95c502b"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "e9c79d9c56ff800efd1de79d745d4d75763c9bf86a92fa14a43d7b5410c15e09"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "f4e1760dfd6c5efd45c4004fada85a66cbb1d6479888e0472ecd1d27b84d93bc"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "4bad24e5dc969a800ce728417999849ee76401690cd65ee4924c75869d8392e3"
+metafile = true
+
+[[files]]
+file = "mods/state-output.pw.toml"
+hash = "2cced73a02dcf95b4872d13e68d1316c9ee4dae20b159c962e2c12b769cf1f02"
+metafile = true
+
+[[files]]
+file = "mods/voyager.pw.toml"
+hash = "eea8880c9b90e6b5339fa6a2c6c5d07ec262ddc041a96cbff81501e19875fa0c"
+metafile = true
+
+[[files]]
+file = "mods/worldpreview.pw.toml"
+hash = "e806a85b68dd812dc41031404f73f59ccf640e8aa61dfd446608812560a3a4c4"
+metafile = true
