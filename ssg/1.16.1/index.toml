@@ -61,7 +61,7 @@ metafile = true
 
 [[files]]
 file = "mods/seedqueue.pw.toml"
-hash = "9d3e0a5d41fd7c03464746f2ded872df31498afd446b5afeb9599decf5d9bfa7"
+hash = "3f14b9c6fc1f8a063ee3048fc3e2d2cb1a91c701fe50be74d5934694ea9d55b3"
 metafile = true
 
 [[files]]

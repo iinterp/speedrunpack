@@ -1,24 +1,4 @@
-- Added **[antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antigone-1.16.1)** 2.0.0
-- Added **[AntiResourceReload](https://github.com/Minecraft-Java-Edition-Speedrunning/antiresourcereload)** 5.1.0+1.16.1
-- Added **[Atum](https://github.com/KingContaria/atum-rewrite)** 2.1+1.16.1
-- Added **[Chunkcacher](https://github.com/Minecraft-Java-Edition-Speedrunning/chunkcacher)** 1.4.1+1.16.1
-- Added **[Chunkumulator](https://github.com/DuncanRuns/Chunkumulator)** 1.0.3+MC1.16.1
-- Added **[Extra Options](https://github.com/tildejustin/extra-options)** 2.1.0+1.16.1
-- Added **[FastReset](https://github.com/KingContaria/FastReset)** 2.1+1.16.1
-- Added **[Force Port Mod](https://github.com/DuncanRuns/Force-Port-Mod)** 1.2.0
-- Added **[Krypton](https://github.com/astei/krypton)** 0.1.3-SNAPSHOT+2021-02-20
-- Added **[LazyDFU](https://github.com/astei/lazydfu)** 0.1.2
-- Added **[Lithium](https://github.com/CaffeineMC/lithium-fabric)** 0.6.6
-- Added **[SeedQueue](https://github.com/KingContaria/seedqueue)** 1.1
-- Added **[Set Spawn](https://github.com/Minecraft-Java-Edition-Speedrunning/set-spawn)** 4.1.0+1.14-1.18.2
-- Added **[SleepBackground](https://github.com/RedLime/SleepBackground)** 4.0+1.16.1
-- Added **[Sodium](https://github.com/Minecraft-Java-Edition-Speedrunning/sodium)** 2.3.1+1.16.1
-- Added **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** 1.0.1+1.16.1
-- Added **[SpeedRunIGT](https://github.com/RedLime/SpeedRunIGT)** 15.1+1.16.1
-- Added **[StandardSettings](https://github.com/KingContaria/StandardSettings)** 2.1+1.16.1
-- Added **[Starlight](https://github.com/PaperMC/Starlight)** v7
-- Added **[State Output](https://github.com/tildejustin/state-output)** 1.2.0+1.16-1.18.1
-- Added **[Voyager](https://github.com/tildejustin/voyager)** 1.0.1
+- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.1 -> 1.1.1]
 
 # Mod List
 - **[antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antigone-1.16.1)**
