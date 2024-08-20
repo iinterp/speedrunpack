@@ -12,12 +12,19 @@ You might think you should use the latest version of Minecraft, but there are ma
 
 Because of this, **1.16.1 gets the most support** when it comes to speedrunning specific mods, resources, and guides. At the moment, 1.16.1 is **the only version to have the _SeedQueue_ mod**, which is a single-instance way to generate many worlds at the same time, making resetting much faster and easier.
 
-However, other versions of Minecraft are still popular to speedrun. **1.15.2** is popular due to being the **last version before The Nether Update**, which dramatically changed Minecraft speedruns. This means that the speedrun route for 1.15.2 and older is very different from newer versions of the game.
+However, other versions of Minecraft are still popular to speedrun. **1.15.2** is popular due to being the **last version before The Nether Update**, which dramatically changed Minecraft speedruns. This means that the speedrun route for 1.15.2 and below is very different from newer versions of the game.
 
 Of course, if you still want to speedrun the latest versions of the game, go ahead! Just know that it will be very different from what most people play: you will find piglin brutes in bastions; the rates at which you get ender pearls from piglins are much worse; the new world generation makes getting to the nether difficult; the F3 pie chart works differently; and much more.
 
 </details>
 
+## How to set up The Wall
+> Generate many worlds at once on a single-instance using SeedQueue
+
+> 1.16.1 only
+
+[Here's a video guide to setup SeedQueue](https://youtu.be/fGu2MYZxh_c). The guide is for MultiMC, but the steps should be similar in most other launchers.  
+You don't need to watch K4's setup video as the modpack does the setup for you.
 
 ## Installation
 
