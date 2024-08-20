@@ -7,6 +7,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 ### Unsure? -> 1.16.1
 
 <details><summary>Why?</summary>
+	
 You might think you should use the lastest version of Minecraft, but there are many reasons that make **1.16.1 the most popular version for speedrunning**. Not only is it **the fastest version of the game**, it also **relies way less on RNG** to complete a run compared to newer versions.
 
 Because of this, **1.16.1 gets the most support** when it comes to speedrunning specific mods, resources, and guides. At the moment, 1.16.1 is **the only version to have the _SeedQueue_ mod**, which is a single-instance way to generate many worlds at the same time, making resetting much faster and easier.
@@ -14,6 +15,7 @@ Because of this, **1.16.1 gets the most support** when it comes to speedrunning 
 However, other versions of Minecraft are still popular to speedrun. **1.15.2** is popular due to being the **last version before The Nether Update**, which dramatically changed Minecraft speedruns. This means that the speedrun route for 1.15.2 and older is very different to newer versions of the game.
 
 Of course, if you still want to speedrun the latest versions of the game, go ahead! Just know that it will be very different to what most people play; you will find piglin brutes in bastions, the rates at which you get ender pearls from piglins are much worse, the new world generation makes getting to the nether difficult, the F3 pie chart works differently, and much more.
+
 </details>
 
 
@@ -42,9 +44,9 @@ Of course, if you still want to speedrun the latest versions of the game, go ahe
 
 ## Other Resources
 
-**[Ninjabrain Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot)** - An accurate stronghold calculator for Minecraft speedrunning
+**[Ninjabrain Bot](https://github.com/Ninjabrain1/Ninjabrain-Bot)** - An accurate stronghold calculator legal for Minecraft speedrunning
 
-**[MCSR Ranked](https://modrinth.com/mod/mcsr-ranked)** - Ranked speedrunning mod
+**[MCSR Ranked](https://modrinth.com/mod/mcsr-ranked)** - Ranked speedrunning mod 
 
 **[Bastion Practice Map](https://github.com/LlamaPag/bastion/releases/latest)** by LLamaPag
 
