@@ -1,6 +1,6 @@
 # SpeedrunPack
 
-Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com/mc) across most modern Minecraft versions.
+Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com/mc) for modern versions of Minecraft.
 
 ### Includes:
 - **SeedQueue** - Generate many worlds at once with a built-in wall screen on one instance
