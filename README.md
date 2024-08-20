@@ -2,6 +2,12 @@
 
 Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com/mc) across most modern Minecraft versions.
 
+### Includes:
+- **SeedQueue** - Generate many worlds at once with a built-in wall screen on one instance
+- **WorldPreview** - Preview worlds while they are still generating, allowing you to reset early
+- **Atum** - Automatically creates a new world when you leave one, with a keybind to reset instantly
+- **Many many performance mods** to increase FPS and make world generation faster
+
 ## What Minecraft version should I choose?
 
 ### Unsure? -> 1.16.1
