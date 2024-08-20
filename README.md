@@ -14,7 +14,7 @@ Because of this, **1.16.1 gets the most support** when it comes to speedrunning 
 
 However, other versions of Minecraft are still popular to speedrun. **1.15.2** is popular due to being the **last version before The Nether Update**, which dramatically changed Minecraft speedruns. This means that the speedrun route for 1.15.2 and older is very different to newer versions of the game.
 
-Of course, if you still want to speedrun the latest versions of the game, go ahead! Just know that it will be very different to what most people play; you will find piglin brutes in bastions, the rates at which you get ender pearls from piglins are much worse, the new world generation makes getting to the nether difficult, the F3 pie chart works differently, and much more.
+Of course, if you still want to speedrun the latest versions of the game, go ahead! Just know that it will be very different from what most people play: you will find piglin brutes in bastions; the rates at which you get ender pearls from piglins are much worse; the new world generation makes getting to the nether difficult; the F3 pie chart works differently; and much more.
 
 </details>
 
