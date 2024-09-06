@@ -1,4 +1,5 @@
-- Updated **[SeedQueue](https://github.com/KingContaria/seedqueue)** [1.1 -> 1.1.1]
+- Updated **[Atum](https://github.com/KingContaria/atum-rewrite)** [2.2+1.16.1 -> 2.2.1+1.16.1]
+- Updated **[Speedrun API](https://github.com/KingContaria/SpeedrunAPI)** [1.0.2+1.16.1 -> 1.1+1.16.1]
 
 # Mod List
 - **[antigone](https://github.com/Minecraft-Java-Edition-Speedrunning/mcsr-antigone-1.16.1)**

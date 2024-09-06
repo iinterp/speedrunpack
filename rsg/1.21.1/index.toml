@@ -1,0 +1,56 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/atum.pw.toml"
+hash = "ee977c8f79ad7e47009d9879698b7e40265c77eaf3b182c3857f7356d9b6b82b"
+metafile = true
+
+[[files]]
+file = "mods/biome_threadlocal_fix.pw.toml"
+hash = "d8dd2cc2aac334bd720c0c2ad91e5cbc3f37ea94730a4ff9eea87f5c8507a10a"
+metafile = true
+
+[[files]]
+file = "mods/fast_reset.pw.toml"
+hash = "5553034001a1c04fd92b0231cd615c34fb72b5efa2e4fb9fe21e44946490eac9"
+metafile = true
+
+[[files]]
+file = "mods/forceport.pw.toml"
+hash = "8d6d74edffa37229459f5e8ee4da98b240e4ac157a37e1a13b2139af458ac114"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "2f359dcae38b4a690a1713db004340594c7c70ebba4336736c01b625db4f7f81"
+metafile = true
+
+[[files]]
+file = "mods/planifolia.pw.toml"
+hash = "50854ce93b18f235e9c4c9c1707ef6a265c4cdf0253ed46dc02bb73ceab1bf57"
+metafile = true
+
+[[files]]
+file = "mods/sleepbackground.pw.toml"
+hash = "dadd6f042673b73fcf4d030c5ca6bcbe06f12cc4d7dd33e901a8e4eabe0e6186"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "a1e6cfbddbff160193549158b56fc6a0d948b717babdae1f9d13fe1da3b93c60"
+metafile = true
+
+[[files]]
+file = "mods/speedrunigt.pw.toml"
+hash = "a27e82640bfc8b713fd2310b89565e0782a553ff16e614c8f791f0d2b132542f"
+metafile = true
+
+[[files]]
+file = "mods/standardsettings.pw.toml"
+hash = "e85191cbf1f48eae0cb8e0b8da0a588d0e14d5a2c90a04748e7d530a532ef50f"
+metafile = true
+
+[[files]]
+file = "mods/state-output.pw.toml"
+hash = "5a34ecedc875f2082c73407dee7f4f3d049e8e03ceb6ebd3bb4cf9af8b046205"
+metafile = true

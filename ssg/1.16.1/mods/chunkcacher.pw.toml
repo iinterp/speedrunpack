@@ -1,12 +1,12 @@
 name = "Chunkcacher"
-filename = "chunkcacher-1.4.1+1.16.1.jar"
+filename = "chunkcacher-1.4.2+1.16.1.jar"
 side = "both"
-version = "1.4.1+1.16.1"
+version = "1.4.2+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/chunkcacher/1.16.1/chunkcacher-1.4.1+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/1546cdf866bb0fea831d1d04d59172e3b9159f3e/legal-mods/chunkcacher/1.16.1/chunkcacher-1.4.2+1.16.1.jar"
 hash-format = "sha512"
-hash = "c63bd0ef52b5154ea143cac9074b945a224d9c14b0b3d7072af66edc6a0414d9391970e3d90f2fd0c373981cfe597fac90dcb74965cb91e52f40e6e5e81f416c"
+hash = "1c6d5a42e6f0aaaf0cafab28100d0bdb89bf4eab2aa78ad381486441941024ed93532ae57681457b7d35428e49f39559690dd6cbf6e6a1719c7d3fd02e75e76b"
 
 [option]
 optional = false

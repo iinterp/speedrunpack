@@ -1,12 +1,12 @@
 name = "Speedrun API"
-filename = "speedrunapi-1.0.1+1.16.1.jar"
+filename = "speedrunapi-1.1+1.16.1.jar"
 side = "both"
-version = "1.0.1+1.16.1"
+version = "1.1+1.16.1"
 
 [download]
-url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/b155bce91b2062a7fb9288380eb31cd2987f3e6d/legal-mods/speedrunapi/1.16.1/speedrunapi-1.0.1+1.16.1.jar"
+url = "https://github.com/Minecraft-Java-Edition-Speedrunning/legal-mods/raw/143682bc7d4865c1edd62d090f7073158e91e036/legal-mods/speedrunapi/1.16.1/speedrunapi-1.1+1.16.1.jar"
 hash-format = "sha512"
-hash = "d03796b901fee38ff18371e052e419a0b29f3e2091d4a369c4979c09ded0c5cba0a8eca58ead05d9f05e71fa20f9aeae13b19ca0ee030685b0e6d542d4ddb6f0"
+hash = "0c009ca77e1b5b9c44a00b57f9c9819e218647c63a6d8c56ec8f8ee9d8ac5dd6cdee914f6835cce4346303aa848140acee81ec8deb54dd240a41f766463fe61a"
 
 [option]
 optional = false

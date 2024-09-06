@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/mcsr/standardsettings.json"
-hash = "72f4445d878e7a931b0ab48174b71b66045242904f31fa6ce0e34abb00a164ec"
-
-[[files]]
 file = "mods/antigone.pw.toml"
 hash = "e24c63dd97cbcc95ccec8d639878c921cc4de3fb1b0c96db49ca5ca0ee59a0db"
 metafile = true
@@ -16,7 +12,7 @@ metafile = true
 
 [[files]]
 file = "mods/atum.pw.toml"
-hash = "ce9e2d3002fab08744182b59919e7781d6c230b6ab9f57e08dcfef1ae2302ba5"
+hash = "6197c19c1d4d8dec87a5e5c3f0107f28c8dd47196861b9415c07bcfb2d6df5b8"
 metafile = true
 
 [[files]]
@@ -61,7 +57,7 @@ metafile = true
 
 [[files]]
 file = "mods/seedqueue.pw.toml"
-hash = "3f14b9c6fc1f8a063ee3048fc3e2d2cb1a91c701fe50be74d5934694ea9d55b3"
+hash = "aae308ca7921974e0be02935e1160e0118892acdbb7667800eb4fa9b724f7582"
 metafile = true
 
 [[files]]
@@ -76,7 +72,7 @@ metafile = true
 
 [[files]]
 file = "mods/speedrunapi.pw.toml"
-hash = "4f15afeeee43a56b0d78a9d9975c7f4efd3c876dedd3d18a9c16d76bb95c502b"
+hash = "010e7fdade4571dd4a7d7cb543540191d0599b24c91c70dc80bb5f3259ee4386"
 metafile = true
 
 [[files]]
@@ -86,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/standardsettings.pw.toml"
-hash = "f4e1760dfd6c5efd45c4004fada85a66cbb1d6479888e0472ecd1d27b84d93bc"
+hash = "191e9c07fab43498aba192dad301309a56bbcd6ef73c8e5188f381dd75ba4592"
 metafile = true
 
 [[files]]
@@ -106,5 +102,5 @@ metafile = true
 
 [[files]]
 file = "mods/worldpreview.pw.toml"
-hash = "e806a85b68dd812dc41031404f73f59ccf640e8aa61dfd446608812560a3a4c4"
+hash = "039a44cd983a7535b3ff9e2224703b6887ac6faa5e349f79de83270b718fec4c"
 metafile = true
