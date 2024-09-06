@@ -46,10 +46,8 @@ If instead you want to setup StandardSettings, there are instructions [here](htt
 
 </details>
 
-## How to set up The Wall
+## How to set up The Wall (MC 1.16.1 Only)
 > Generate many worlds at once on a single-instance using SeedQueue
-
-> 1.16.1 only
 
 [Here's a video guide to setup SeedQueue](https://youtu.be/fGu2MYZxh_c). The guide is for MultiMC, but the steps should be similar in most other launchers.  
 You don't need to watch K4's setup video as the modpack does the setup for you.
