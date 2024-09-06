@@ -24,6 +24,28 @@ Of course, if you still want to speedrun the latest versions of the game, go ahe
 
 </details>
 
+## My settings keep reverting to defaults!
+
+This is due to the StandardSettings mod, which changes your settings to a preset default every time you load a new world.
+
+To fix this, you can either disable the mod or set it up to revert to the settings you choose.
+
+### Steps (MC 1.16.1)
+
+1. In the options menu, click on the Mod Configs button (the book icon)
+2. Open the StandardSettings config
+3. To disable StandardSettings set 'Use StandardSettings' to 'OFF'  
+Otherwise, change the settings in this menu to the ones you would usually use. You can press 'CTRL+F' to search for a setting.
+
+<details><summary>For MC versions other than 1.16.1</summary>
+Versions other than 1.16.1 use an older version of the StandardSettings mod which does not have an in-game GUI. 
+
+**To disable StandardSettings in this version you have to manually remove or disable the mod .jar file.**
+
+If instead you want to setup StandardSettings, there are instructions [here](https://github.com/KingContaria/StandardSettings/tree/a090442f287ccae46dbfa8837a94f663cc6cbc12?tab=readme-ov-file#how-can-i-edit-my-standardsettings).
+
+</details>
+
 ## How to set up The Wall
 > Generate many worlds at once on a single-instance using SeedQueue
 
