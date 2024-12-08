@@ -8,6 +8,44 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 - **Atum** - Automatically creates a new world when you leave one, with a keybind to reset instantly
 - **Many many performance mods** to increase FPS and make world generation faster
 
+## Installation
+
+**Java 17-22 is required.**
+
+**Windows:** [Install Java 21 here](https://adoptium.net/temurin/releases/?os=windows&arch=x64&package=jre), download and run the .msi file.
+
+**Mac:** [You can follow these instructions](https://www.youtube.com/watch?v=GomIeW5xdBM) to install everything except the mods, since the modpack does that bit for you.
+
+**Linux:** Install OpenJDK 21 from your systems package manager.
+
+<details><summary>Modrinth App</summary>
+
+### Browse -> Search for SpeedrunPack -> Click Install
+> Optionally, navigate to the Versions tab to select a version to install
+### View Instance -> Options
+### Override global java installations -> Auto detect -> Select Java 21
+
+</details>
+
+<details><summary>Prism Launcher & MultiMC</summary>
+
+### Add Instance -> Modrinth -> Search for SpeedrunPack -> Select OK
+> Optionally, select a version to install in the dropdown
+### Edit Instance -> Settings -> Java
+### Java Installation -> Auto-detect -> Select Java 21 -> Skip Java Compatibility Checks
+
+</details>
+
+<details><summary>ATLauncher</summary>
+
+### Packs -> Modrinth -> Search for SpeedrunPack -> New Instance -> Install
+> Optionally, select a version to install in the dropdown
+### Instance -> Settings -> Java/Minecraft
+### Use Java Provided by Minecraft? -> No -> Java Path -> Select Java 21 Path
+> Adoptium Java installs to `C:\Program Files\Eclipse Adoptium\<package>` by default on Windows
+
+</details>
+
 ## What Minecraft version should I choose?
 
 ### Unsure? -> 1.16.1
@@ -51,29 +89,6 @@ If instead you want to setup StandardSettings, there are instructions [here](htt
 
 [Here's a video guide to setup SeedQueue](https://youtu.be/fGu2MYZxh_c). The guide is for MultiMC, but the steps should be similar in most other launchers.  
 You don't need to watch the separate video mentioned as the modpack does that setup for you.
-
-## Installation
-
-<details><summary>Modrinth App</summary>
-
-### Browse -> Search for SpeedrunPack -> Click Install
-> Optionally, navigate to the Versions tab to select a version to install
-
-</details>
-
-<details><summary>Prism Launcher & MultiMC</summary>
-
-### Add Instance -> Modrinth -> Search for SpeedrunPack -> Select OK
-> Optionally, select a version to install in the dropdown
-
-</details>
-
-<details><summary>ATLauncher</summary>
-
-### Packs -> Modrinth -> Search for SpeedrunPack -> New Instance -> Install
-> Optionally, select a version to install in the dropdown
-
-</details>
 
 ## Other Resources
 
