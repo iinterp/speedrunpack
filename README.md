@@ -98,11 +98,7 @@ You don't need to watch the separate video mentioned as the modpack does that se
 
 **[MCSR Ranked](https://modrinth.com/mod/mcsr-ranked)** - Ranked speedrunning mod 
 
-**[Bastion Practice Map](https://github.com/LlamaPag/bastion/releases/latest)** by LLamaPag
-
-**[Portal Practice Map](https://github.com/Semperzz/Portal-Practice/releases/latest)** by ItzToxic & Semperzz
-
-**[End Practice Map](https://github.com/ryguy2k4/ryguy2k4endpractice/releases/latest)** by ryguy2k4
+**[The MCSR Practice Map](https://github.com/Dibedy/The-MCSR-Practice-Map/releases/latest)** - All-in-one practice map
 
 & more at **[MinecraftSpeedrunning.com](https://www.minecraftspeedrunning.com/public-resources)**
 
