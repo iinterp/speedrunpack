@@ -44,8 +44,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 > Optionally, select a version to install in the dropdown
 ## To Install Java
 ### Instance -> Settings -> Java/Minecraft
-### Use Java Provided by Minecraft? -> No -> Java Path -> Select Java 21 Path
-> Adoptium Java installs to `C:\Program Files\Eclipse Adoptium\<package>` by default on Windows
+### Runtime Override -> Select Java 21
 
 </details>
 
