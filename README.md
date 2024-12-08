@@ -22,6 +22,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 
 ### Browse -> Search for SpeedrunPack -> Click Install
 > Optionally, navigate to the Versions tab to select a version to install
+## To Install Java
 ### View Instance -> Options
 ### Override global java installations -> Auto detect -> Select Java 21
 
@@ -31,6 +32,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 
 ### Add Instance -> Modrinth -> Search for SpeedrunPack -> Select OK
 > Optionally, select a version to install in the dropdown
+## To Install Java
 ### Edit Instance -> Settings -> Java
 ### Java Installation -> Auto-detect -> Select Java 21 -> Skip Java Compatibility Checks
 
@@ -40,6 +42,7 @@ Contains all mods that are verifiable on [speedrun.com](https://www.speedrun.com
 
 ### Packs -> Modrinth -> Search for SpeedrunPack -> New Instance -> Install
 > Optionally, select a version to install in the dropdown
+## To Install Java
 ### Instance -> Settings -> Java/Minecraft
 ### Use Java Provided by Minecraft? -> No -> Java Path -> Select Java 21 Path
 > Adoptium Java installs to `C:\Program Files\Eclipse Adoptium\<package>` by default on Windows
